@@ -3,7 +3,7 @@
     padding:0;
     box-sizing:border-box;
 }
-body {
+.seccion_1 {
     background:url("img/img1.jpg");
     width:100%;
     object-fit:cover;
