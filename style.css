@@ -11,7 +11,7 @@
 .menu {
     background-color:rgba(43, 41, 38, .4);
     height:75px;
-    width:100vw;
+    width:100%;
     display:flex;
     justify-content:space-between;
     align-items:center;
