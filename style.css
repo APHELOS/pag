@@ -5,8 +5,7 @@
 }
 .seccion_1 {
     background:url("img/ingredientes-italianos-apetitosos-frescos-sabrosos-comida-fondo-oscuro-listo-cocinar-inicio-italiano-comida-saludable-concepto-cocina-viraje_1220-1820.webp");
-    width:100%;
-    object-fit:cover;
+    background-size:cover;
     padding-bottom: 500px;
 }
 .menu {
@@ -46,10 +45,21 @@
     background-color:rgba(0, 0, 0, .3);
     transition:.4s;
 }
+.titulo{
+    text-align:center;
+    color:#fff;
+    margin-top:200px;
+}
+.titulo h2 {
+    float:left;
+    margin-left:100px;
+    margin-top:30px;
+
+}
 form {
     width:80%;
     height:40px;
-    margin-top:300px;
+    margin-top:100px;
     margin-left:100px;
     margin-right:100px;
    
