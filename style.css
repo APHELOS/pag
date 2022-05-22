@@ -4,7 +4,7 @@
     box-sizing:border-box;
 }
 .seccion_1 {
-    background:url("img/Comida-típica-de-India-_-10-Platos-Imprescindibles.jpg");
+    background-image:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),url("img/Comida-típica-de-India-_-10-Platos-Imprescindibles.jpg");
     background-size:cover;
     padding-bottom: 300px;
 }
